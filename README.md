@@ -17,10 +17,10 @@ The system consists of:
 1. Navigate to the BankingAPI folder
 2. Run `dotnet run`
 3. API will start on `http://localhost:5120`
-4. Test endpoint: POST `http://localhost:5120/api/accounts/balance`
+4. Test endpoint: POST `http://localhost:5120/api/Accounts/balance`
 
 ## API Endpoint
-**POST** `/api/accounts/balance`
+**POST** `/api/Accounts/balance`
 
 **Request body**:
 ```JSON

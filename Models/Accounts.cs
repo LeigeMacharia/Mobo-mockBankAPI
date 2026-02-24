@@ -17,7 +17,6 @@ namespace BankingAPI.Models
         public string? transaction_reference { get; set; }
         public string? transaction_code { get; set; }
         public decimal amount { get; set; }
-        public string? narration { get; set; }
         public string? phone_number { get; set; }
         public string? account_name { get; set; }
         public decimal actual_balance { get; set; }
